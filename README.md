@@ -1,5 +1,5 @@
 # Netflix Userbase Exploratory Data Analysis
-![Subscription Type](image.png) ![By Country](image-2.png)
+![Subscription Type](image.png)
 ## Overview
 
 This project performs an exploratory data analysis (EDA) on the Netflix userbase dataset to uncover insights about user demographics, subscription patterns, revenue metrics, and usage behaviors. The analysis includes data cleaning, statistical summaries, and comprehensive visualizations to understand the Netflix user ecosystem.
