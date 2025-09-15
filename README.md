@@ -34,7 +34,7 @@ The dataset used in this analysis is the **Netflix Userbase Dataset** available 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/adilsiraju/Netflix-Userbase-EDA
    cd netflix-eda
    ```
 
